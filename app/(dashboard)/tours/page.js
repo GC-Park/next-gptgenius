@@ -1,9 +1,5 @@
 const ToursPage = () => {
-  return (
-    <div>
-      ToursPage
-    </div>
-  )
-}
+  return <div>ToursPage</div>;
+};
 
-export default ToursPage
+export default ToursPage;
